@@ -21,7 +21,7 @@ public class Seat {
         info += "NUmber : " + this.number +"\n";
         
         if(this.passenger != null){
-            info += "passenger : " + this.passenger +"\n";
+            info += "passenger : " + this.passenger.info() +"\n";
         }
         return info;
     }
