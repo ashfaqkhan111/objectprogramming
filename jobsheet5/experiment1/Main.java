@@ -1,6 +1,6 @@
 package jobsheet5.experiment1;
 
-public class Mian {
+public class Main {
     public static void main(String[] args) {
         ClassB calcualtor = new ClassB();
        
