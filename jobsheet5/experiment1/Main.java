@@ -9,9 +9,9 @@ public class Main {
         calcualtor.y=30;
         calcualtor.z=5;
 
-        calcualtor.gettotal();
+        calcualtor.getResult();
         calcualtor.getResultZ();
-        calcualtor.getResultZ();
+        calcualtor.getTotal();
     }
     
 }

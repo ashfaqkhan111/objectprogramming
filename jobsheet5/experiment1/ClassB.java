@@ -8,7 +8,7 @@ public class ClassB extends ClassA {
         System.out.println("result z : "+z);
     }
 
-    public void gettotal(){
+    public void getTotal(){
         System.out.println("total : "+(x+y+z));
     }
     
